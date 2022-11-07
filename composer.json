@@ -1,0 +1,10 @@
+{
+    "name": "admin/chamadasonline",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require" : {
+    }
+}
